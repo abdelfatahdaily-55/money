@@ -1,18 +1,31 @@
 {
-  "name": "Money Tracker",
-  "short_name": "Money",
-  "description": "كل جنيه داخل وخارج",
+  "name": "قرش — Qirsh",
+  "short_name": "قرش",
+  "description": "ولا قرش يضيع منك",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f2f2f7",
-  "theme_color": "#0e8a5f",
+  "theme_color": "#f2f2f7",
   "lang": "ar",
   "dir": "rtl",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
